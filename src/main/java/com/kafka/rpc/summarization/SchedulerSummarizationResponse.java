@@ -13,6 +13,6 @@ import java.util.UUID;
 @AllArgsConstructor
 public class SchedulerSummarizationResponse {
     private UUID userId;
-    private InputStreamResource resource;
+    private byte[] resource;
 
 }
