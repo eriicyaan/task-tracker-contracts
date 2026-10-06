@@ -1,4 +1,4 @@
-package com.kafka.events;
+package com.tasktracker.kafka.events;
 
 
 import lombok.AllArgsConstructor;

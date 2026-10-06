@@ -1,4 +1,4 @@
-package com.response;
+package com.tasktracker.response;
 
 import java.util.UUID;
 
